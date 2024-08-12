@@ -3,4 +3,4 @@
 
 ## Demo Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/76R7hvvvN9w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![Generate MCQs and 1 more page - Personal - Microsoft_ Edge 2024-08-12 17-09-54 (1)](https://github.com/user-attachments/assets/869215ee-a5f1-4c47-aa5a-051ab37960aa)
